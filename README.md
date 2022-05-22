@@ -3,9 +3,8 @@
     <img alt="proffy-2" src="https://github.com/rogersene/IgNews/blob/master/public/images/avatar.svg" width="10%">
 </h1>
 
-
-  <a href="#-tecnologias">Tecnologias :sparkles:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
   <a href="#-projeto">Projeto  :computer:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+  <a href="#-tecnologias">Tecnologias :sparkles:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
   <a href="#-layout">Layout :flower_playing_cards:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   
@@ -15,6 +14,8 @@
 
 <br>
 
+## 💻 Projeto
+Aplicação para reportar possíveis erros, sugestões ou algum outro tipo de feedback para o site ou app mobile. Com funcionalidade de envio de e-mail do feedback com o tipo, comentário e screenshot da tela.
 
 ## 🚀 Tecnologias
 
@@ -36,9 +37,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  - Express
  - Jest
 
-
-## 💻 Projeto
-Aplicação para reportar possíveis erros, sugestões ou algum outro tipo de feedback para o site ou app mobile. Com funcionalidade de envio de e-mail do feedback com o tipo, comentário e screenshot da tela.
 
 ## bookmark Layout
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/community/file/1102912516166573468">desse link.</a>  É necessário ter conta no Figma para acessá-lo.
