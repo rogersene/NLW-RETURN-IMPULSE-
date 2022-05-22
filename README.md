@@ -74,7 +74,7 @@ Você pode visualizar o layout do projeto através <a href="https://www.figma.co
 ## 💻 Executando o projeto
 Utilize o yarn ou o npm install para instalar as dependências do projeto. Em seguida, inicie o projeto.
 
-`
+```
 Iniciar Back-end
 
 cd server
@@ -91,7 +91,7 @@ Versão Mobile
 
 cd mobile
 expo start
-`
+```
 
 Lembre-se de defir no arquivo .env as configurações da sua aplicação.
 
