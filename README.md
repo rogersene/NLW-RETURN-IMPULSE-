@@ -41,33 +41,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :bookmark: Layout
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/community/file/1102912516166573468">desse link.</a>  É necessário ter conta no Figma para acessá-lo.
 
-## :flower_playing_cards: Projeto
-
-
-<p align="center">
-   <h1>Página HOME</h1>
-  <img alt="Home" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/Ignews%20Home.png" width="80%">
-</p>
-
-<br>
-
-<p align="center">
-  <h1>Página Preview das Postagens do Blog</h1>
-  <img alt="Preview Post" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/PreviewReadPost.png" width="80%">
-</p>
-
-<br>
-
-<p align="center">
-    <h1>Página de leitura dos posts para os inscritos válidos.</h1>
-    <img alt="ReadPost" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/ReadPost.png" width="80%">
-</p>
-
-<br>
-<p align="center">
-  <h1>Página de checkout de pagamento.</h1>
-  <img alt="Checkout Stripe" src="https://github.com/rogersene/IgNews/blob/master/public/images/Layout/Stripe.png" width="80%">
-</p>
 
 ## 💻 Executando o projeto
 Utilize o yarn ou o npm install para instalar as dependências do projeto. Em seguida, inicie o projeto.
