@@ -1,7 +1,3 @@
-<h1 align="center">
-   <img alt="IgNews" src="https://github.com/rogersene/IgNews/blob/master/public/images/logo.png">
-    <img alt="proffy-2" src="https://github.com/rogersene/IgNews/blob/master/public/images/avatar.svg" width="10%">
-</h1>
 
   <a href="#-projeto">Projeto  :computer:</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
   <a href="#-tecnologias">Tecnologias :sparkles:</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
