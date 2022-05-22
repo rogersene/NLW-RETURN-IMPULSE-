@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  - Jest
 
 
-## bookmark Layout
+## :bookmark: Layout
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/community/file/1102912516166573468">desse link.</a>  É necessário ter conta no Figma para acessá-lo.
 
 ## :flower_playing_cards: Projeto
